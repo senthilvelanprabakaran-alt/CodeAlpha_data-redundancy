@@ -63,3 +63,4 @@ Email and phone may be blank individually, but at least one must be provided.
 - Add authentication, CSRF protection, rate limiting, structured audit logs, stricter validation, and access controls before exposing this app publicly.
 - Firestore security rules do not restrict Admin SDK access. Protect the Flask server and its service-account credentials accordingly.
 "# CodeAlpha_data-redundancy" 
+"# CodeAlpha_data-redundancy" 
